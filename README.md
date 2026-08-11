@@ -1,3 +1,12 @@
+# This fork
+A project to add additional functionality to the Exporter (Export Highlights) Plugin.
+
+This project started around exporting highlights automatically without intrusion to the user experience.
+In this goal, I have added the following
+- TODO
+
+---
+
 [![KOReader](https://raw.githubusercontent.com/koreader/koreader.github.io/master/koreader-logo.png)](https://koreader.rocks)
 
 #### KOReader is a document viewer primarily aimed at e-ink readers.
